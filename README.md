@@ -28,6 +28,12 @@ Este proyecto utiliza eventos de ratón para actualizar la posición de los elem
 - **`styles.css`**: Define el estilo de los elementos "ojo" y el diseño general de la página.
 - **`eyes.js`**: Contiene la lógica que hace que los elementos "ojo" sigan el movimiento del ratón en la pantalla.
 
+### Roadmap de Futuras Mejoras
+
+En el futuro, se puede mejorar en las siguientes mejoras:
+- Agregar opciones de personalización para que sea gusto del usuario ya que podrian hacer un personaje que les guste.
+- Agregar mas funcionalidades como que los ojos pestañeen o una boca que se abra haciendo click.
+
 ### License
 
 Este proyecto está bajo la licencia MIT. Consulte el archivo LICENSE para obtener más detalles.
